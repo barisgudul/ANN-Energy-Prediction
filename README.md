@@ -90,7 +90,7 @@ jupyter notebook main.ipynb
 ## 📊 Results Visualization
 ### Actual vs Predicted Values
 
-![Actual vs Predicted](ANN_for_Power_Plant_Energy/results/actual_vs_predicted.png)
+![Actual vs Predicted](ANN_for_Power_Plant_Energy/Results/actual_vs_predicted.png)
 
 **Actual vs Predicted**
 ---
@@ -125,5 +125,5 @@ Full license terms available in [LICENSE](LICENSE) file.
 We welcome collaborations! Please reach out via email before submitting PRs.
 
 
-**Technical Support:**
+**Technical Support:**  
 For implementation assistance, include "[Power Plant]" in your email subject line.
